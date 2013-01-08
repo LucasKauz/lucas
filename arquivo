@@ -1,0 +1,21 @@
+instalar ubuntu
+	install (sudo apt-get git-core gitk)
+Iniciar Repositório
+ 	git init
+
+Dar commit
+	git commit -m "Nome"
+
+Criar arquivo para exclusão
+	criar .gitignore e colocar regra ( *~ )
+
+Mostrar os commits
+	git log
+	
+GitHub
+	git remote add origin <>
+	git pull origin master
+	git push origin master
+
+ll = Lista tudo, inclusive ocultos
+ls = Listas
